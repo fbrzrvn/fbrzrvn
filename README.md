@@ -1,6 +1,6 @@
 ### Hi there 👋 
 - 🔭I’m a JavaScript FullStack Developer
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript, React Native
 - 👯 I’m looking forward to collaborate on ambitious projects with positive people.
 - 📫 How to reach me: fabri.es018@gmail.com
 <!--
