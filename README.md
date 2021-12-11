@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fab-rvn&show_icons=true&theme=dracula" />
 </a>
 <p></p>
-<img src="https://github.com/fab-rvn/fab-rvn/blob/output/github-contribution-grid-snake.gif" />
+<img src="https://github.com/fab-rvn/fab-rvn/blob/output/github-contribution-grid-snake.svg" />
 
 
 
