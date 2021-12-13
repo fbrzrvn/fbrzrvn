@@ -1,6 +1,7 @@
 ### Hi there 👋 
 - 🔭 I’m a Full-Stack Developer
-- 🌱 I’m currently learning TypeScript, C#
+- 🌱 I’m currently learning C#
+- ❤️ In love with: <img src="https://img.shields.io/badge/-react-06bcee" align="center" /> <img src="https://img.shields.io/badge/-typescript-3178c6" align="center" /> <img src="https://img.shields.io/badge/-node-64de64" align="center" />
 - 👯 I’m looking forward to collaborate on ambitious projects with positive people.
 - 📫 How to reach me: fabri.es018@gmail.com
 <!--
@@ -18,7 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" vertical-align="middle" src="https://github-readme-stats.vercel.app/api?username=fab-rvn&show_icons=true&theme=dracula" />
 </a>
@@ -27,9 +27,3 @@ Here are some ideas to get you started:
 </a>
 <p></p>
 <img src="https://github.com/fab-rvn/fab-rvn/blob/output/github-contribution-grid-snake.svg" />
-
-
-
-
-
-
