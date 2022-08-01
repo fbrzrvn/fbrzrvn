@@ -1,5 +1,5 @@
   ### 👋 Hi there
-- 🔭 I’m currently working at FXStreet
+- 🔭 I’m currently working at Onclusive
 - 🌱 I’m currently learning  <img src="https://img.shields.io/badge/-csharp-ac7ee1" align="center" />
 - 👯 I’m looking forward to collaborate on ambitious projects with positive people
 - 🤔 I’m looking for help with everything in my career
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fab-rvn&show_icons=true&theme=dracula" />
 </a>
 <p></p>
-<img src="https://github.com/fab-rvn/fab-rvn/blob/output/github-contribution-grid-snake.svg" />
+<!-- <img src="https://github.com/fab-rvn/fab-rvn/blob/output/github-contribution-grid-snake.svg" /> -->
