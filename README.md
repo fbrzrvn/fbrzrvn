@@ -1,13 +1,3 @@
-  ### 👋 Hi there
-- 🔭 I’m currently working at [Onclusive](https://onclusive.com/)
-- 🌱 I’m currently learning  <img src="https://img.shields.io/badge/-csharp-9b4993" align="center" />
-- 👯 I’m looking forward to collaborate on ambitious projects with positive people
-- 🤔 I’m looking for help with everything in my career
-- 💬 Ask me about <img src="https://img.shields.io/badge/-javascript-f7df1e" align="center" />
-- 📫 How to reach me: fabri.es018@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: currently in love with <img src="https://img.shields.io/badge/-react-61dbfb" align="center" /> <img src="https://img.shields.io/badge/-typescript-007acc" align="center" /> <img src="https://img.shields.io/badge/-node-6cc24a" align="center" />
-
 <!--
 **faber/faber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,11 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 👋 Hi there
+
+- 🔭 I’m currently working at <a href="https://onclusive.com/"><img src="https://s3-eu-west-1.amazonaws.com/static.instarsocial.com/analytics/img/2016/Kantar_Media_logo_login.png" width=125 align="top" /></a>
+- 🌱 I’m currently learning  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" align="center" /> <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" align="center" />
+- 👯 I’m looking forward to collaborate on ambitious projects with positive people
+- 🤔 I’m looking for help with everything in my career
+- 💬 Ask me about <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" align="center" />
+- 📫 How to reach me: `fabri.es018@gmail.com`
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: currently in love with <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" align="center" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" align="center" />
+
+  
+<!-- <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile#-activity-graph-">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fab-rvn&theme=dracula" />
+</a> -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" vertical-align="middle" src="https://github-readme-stats.vercel.app/api?username=fab-rvn&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fab-rvn&show_icons=true&theme=dracula" />
 </a>
-<p></p>
 <!-- <img src="https://github.com/fab-rvn/fab-rvn/blob/output/github-contribution-grid-snake.svg" /> -->
