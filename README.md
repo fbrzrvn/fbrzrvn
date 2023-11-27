@@ -29,9 +29,9 @@ Here are some ideas to get you started:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fab-rvn&theme=dracula" />
 </a> -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" vertical-align="middle" src="https://github-readme-stats.vercel.app/api?username=fab-rvn&show_icons=true&theme=dracula" />
+  <img align="left" vertical-align="middle" src="https://github-readme-stats.vercel.app/api?username=fab-rvn&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fab-rvn&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fab-rvn&show_icons=true&theme=gruvbox" />
 </a>
 <!-- <img src="https://github.com/fab-rvn/fab-rvn/blob/output/github-contribution-grid-snake.svg" /> -->
