@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking forward to collaborate on ambitious projects with positive people
 - 🤔 I’m looking for help with everything in my career
 - 💬 Ask me about <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" align="center" />
-- 📫 How to reach me: `fabri.es018@gmail.com`
+- 📫 How to reach me: `fbrzrvn@gmail.com`
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: currently in love with <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" align="center" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" align="center" />
 
