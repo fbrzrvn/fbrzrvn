@@ -35,9 +35,9 @@ Here are some ideas to get you started:
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=fbrzrvn&langs_count=3&theme=gruvbox" />
 </a>
  -->
- 
-[![fab-rvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbrzrvn&show_icons=true&theme=gruvbox&show=reviews,prs_merged&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbrzrvn&theme=gruvbox&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![fbrzrvn's GitHub stats](https://github-readme-stats-six-seven.vercel.app/api?username=fbrzrvn&show_icons=true&rank_icon=github&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=fbrzrvn&langs_count=4&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![fab-rvn's GitHub profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fbrzrvn&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
 
