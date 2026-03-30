@@ -37,7 +37,7 @@ Here are some ideas to get you started:
  -->
   
 [![fbrzrvn's GitHub stats](https://github-readme-stats-six-seven.vercel.app/api?username=fbrzrvn&show_icons=true&rank_icon=github&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=fbrzrvn&langs_count=4&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=fbrzrvn&langs_count=3&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![fab-rvn's GitHub profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fbrzrvn&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
 
